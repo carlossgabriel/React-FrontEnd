@@ -158,3 +158,6 @@ return (
 ```
 
 https://reactjs.org/docs/getting-started.html
+
+https://www.digitalocean.com/community/tutorials/how-to-add-login-authentication-to-react-applications
+
